@@ -70,7 +70,7 @@ education_html = '''
 <h4>Education</h4>
 <p><b>B.Tech – Computer Science & Engineering</b><br>
 Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore (2019–2023)<br>
-CGPA: 7.2</p>
+CGPA: 7.5</p>
 <p><b>Class XII – PCM</b><br>
 St. Joseph's Convent Sr. Sec. School, Ratlam (2018)<br>
 79.6% CBSE</p>
